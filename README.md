@@ -24,7 +24,7 @@ Full list of components needed are included in the VCO.csv file.
 
 ## Tunning 
 
-The tunning of each channel is done with a trim pot accesible in the bakc + TUNE and FINE knobs in the front. Personally I recommend using some voltage generator that can output 2 values of 0V and 5V in order to adjust the top and bottom range. As the VCO is 5V @ 1v/oct 0V sould be 5 octaves apart from 5V. Use the the potentiometers in the front (mainly the TUNE one) to move the lowest note (0V CV) to a C, then use the trimmer to rise the top note to a C, when needed use the fine pot to make smaller adjustments. This process is a bit tedious and it mainly consists of back and forward between the potentiometers but it ends up working.
+The tunning of each channel is done with a trim pot accesible in the bakc + COARSE and FINE knobs in the front. Personally I recommend using some voltage generator that can output 2 values of 0V and 5V in order to adjust the top and bottom range. As the VCO is 5V @ 1v/oct 0V sould be 5 octaves apart from 5V. Use the the potentiometers in the front (mainly the COARSE one) to move the lowest note (0V CV) to a C, then use the trimmer to rise the top note to a C, when needed use the fine pot to make smaller adjustments. This process is a bit tedious and it mainly consists of back and forward between the potentiometers but it ends up working.
 
 - For **CHANNEL A** back trimmer is **RV6**.
 - For **CHANNEL B** back trimmer is **RV5**.
