@@ -15,7 +15,7 @@ PCB and Front Pannel designed by me based off the [Mortiz Klein Shapes VCO](http
 
 ## Components
 
-Full list of components needed are included in the VCO.csv file. 
+Full list of components needed is included in the VCO.csv file. 
 
 ### Potentiometers
 - Trimmers are vertical.
